@@ -27,7 +27,9 @@ Como rodar:
 
 2. Aguarde 15 minutos e digite make status,aguardando até ficar InService
 
-3. make test 
+3. make test
+
+4. make clean 
 </p>
 ---
 
