@@ -1,4 +1,4 @@
-# LLM_em_monolito_vs_LLM_em_microservico
+# LLM em monolito vs LLM em microservico
 
 # Comparativo de Arquiteturas: Monolítica vs. Microserviços (RAG)
 <p align="center">
